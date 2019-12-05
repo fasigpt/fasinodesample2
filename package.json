@@ -3,6 +3,6 @@
 "name": "supercoolnodeapp",
 "version": "1.0.0",
 "description": "super node app ",
-"main": "server.js"
+"main": "server1.js"
 
 }
